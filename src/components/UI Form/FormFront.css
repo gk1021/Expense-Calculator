@@ -1,0 +1,103 @@
+.mainForm{
+    
+    display: flex;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+
+    align-items: center;
+    border-radius: 12px;
+    padding: 0.5 rem;
+    justify-content: space-between;
+    background-color: #006064;
+    width:50%;
+    margin: 20px auto;
+}   
+.mainForm1{
+    display: flex;
+    align-items: center;
+    border-radius: 12px;
+    padding: 0.5 rem;
+    justify-content: center;
+   
+    margin: 20px auto;
+}   
+
+
+.title{
+    display: flex;
+  font-size: x-large;
+  color: white;
+  border-radius: 12px;
+  margin: 20px 0 0 0px;
+  float: inline-start;
+}
+
+.amount{
+    display: flex;
+    font-size: x-large;
+    color: white;
+    float: left;
+    border-radius: 12px;
+    margin: 20px 0 0 0px;
+}
+
+
+.submit{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    margin: 4px 2px;
+    justify-content:left;
+}
+
+.cancel{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+
+    font-size: 16px;
+    margin: 4px 2px;
+    justify-content:left;
+}
+
+.newButton{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    margin: 4px 2px;
+    justify-content:center;
+}
+
+.buttons{
+    display: flex;
+    float: right;
+}
+
+.title-label{
+    margin-right: 10px;
+}
+
+.amount-label{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.date-label{
+    margin-right: 10px;
+    
+    
+    
+}
